@@ -1,0 +1,5 @@
+python -m pip install -–upgrade pip 		to upgrade pip to latest version
+
+python -m pip install requests 		to install requests module using pip
+
+pip -V 					to check version of pip
